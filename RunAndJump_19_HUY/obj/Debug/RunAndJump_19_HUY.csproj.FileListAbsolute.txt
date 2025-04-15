@@ -13,3 +13,25 @@ D:\Work place\Code\C#\RunAndJump_19_HUY\obj\Debug\RunAndJump_19_HUY.instruct_19_
 D:\Work place\Code\C#\RunAndJump_19_HUY\bin\Debug\Font\Daydream.ttf
 D:\Work place\Code\C#\RunAndJump_19_HUY\bin\Debug\Font\Pixel Game.otf
 D:\Work place\Code\C#\RunAndJump_19_HUY\bin\Debug\Resources\Fireball_19_HUY.gif
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\bin\Debug\Font\Daydream.ttf
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\bin\Debug\Font\Pixel Game.otf
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\bin\Debug\Resources\Fireball_19_HUY.gif
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\bin\Debug\RunAndJump_19_HUY.exe.config
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\bin\Debug\RunAndJump_19_HUY.exe
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\bin\Debug\RunAndJump_19_HUY.pdb
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\obj\Debug\RunAndJump_19_HUY.csproj.AssemblyReference.cache
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\obj\Debug\RunAndJump_19_HUY.FormMain_19_HUY.resources
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\obj\Debug\RunAndJump_19_HUY.Form_start_19_HUY.resources
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\obj\Debug\RunAndJump_19_HUY.instruct_19_HUY.resources
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\obj\Debug\RunAndJump_19_HUY.Properties.Resources.resources
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\obj\Debug\RunAndJump_19_HUY.csproj.GenerateResource.cache
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\obj\Debug\RunAndJump_19_HUY.csproj.CoreCompileInputs.cache
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\obj\Debug\RunAndJump_19_HUY.exe
+D:\Work place\Code\C#\C_shard\RunAndJump_19_HUY\obj\Debug\RunAndJump_19_HUY.pdb
+D:\Work place\Code\C#\RunAndJump_19_HUY\obj\Debug\RunAndJump_19_HUY.FormExitReset_19_HUY.resources
+D:\Work place\Code\C#\RunAndJump_19_HUY\obj\Debug\Interop.MediaPlayer.dll
+D:\Work place\Code\C#\RunAndJump_19_HUY\obj\Debug\RunAndJump_19_HUY.csproj.ResolveComReference.cache
+D:\Work place\Code\C#\RunAndJump_19_HUY\obj\Debug\Interop.WMLSS.dll
+D:\Work place\Code\C#\RunAndJump_19_HUY\obj\Debug\Interop.WMPDXMLib.dll
+D:\Work place\Code\C#\RunAndJump_19_HUY\obj\Debug\Interop.WMPLauncher.dll
+D:\Work place\Code\C#\RunAndJump_19_HUY\obj\Debug\Interop.WMPLib.dll

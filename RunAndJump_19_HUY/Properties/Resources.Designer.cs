@@ -143,6 +143,16 @@ namespace RunAndJump_19_HUY.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Boss_19_HUY {
+            get {
+                object obj = ResourceManager.GetObject("Boss_19_HUY", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bot1_19_HUY {
             get {
                 object obj = ResourceManager.GetObject("bot1_19_HUY", resourceCulture);
@@ -286,6 +296,86 @@ namespace RunAndJump_19_HUY.Properties {
         internal static System.Drawing.Bitmap BUSH_19_HUY__7_ {
             get {
                 object obj = ResourceManager.GetObject("BUSH_19_HUY (7)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_about_19_HUY {
+            get {
+                object obj = ResourceManager.GetObject("button_about_19_HUY", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_close_19_HUY {
+            get {
+                object obj = ResourceManager.GetObject("button_close_19_HUY", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_exit_19_HUY {
+            get {
+                object obj = ResourceManager.GetObject("button_exit_19_HUY", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_music_19_HUY {
+            get {
+                object obj = ResourceManager.GetObject("button_music_19_HUY", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_next_19_HUY {
+            get {
+                object obj = ResourceManager.GetObject("button_next_19_HUY", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_reset_19_HUY {
+            get {
+                object obj = ResourceManager.GetObject("button_reset_19_HUY", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_setting_19_HUY {
+            get {
+                object obj = ResourceManager.GetObject("button_setting_19_HUY", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_start_19_HUY {
+            get {
+                object obj = ResourceManager.GetObject("button_start_19_HUY", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -613,6 +703,16 @@ namespace RunAndJump_19_HUY.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap key_19_HUY {
+            get {
+                object obj = ResourceManager.GetObject("key_19_HUY", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap lava_19_HUY {
             get {
                 object obj = ResourceManager.GetObject("lava_19_HUY", resourceCulture);
@@ -663,9 +763,29 @@ namespace RunAndJump_19_HUY.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap moon_earth {
+            get {
+                object obj = ResourceManager.GetObject("moon_earth", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap music_19_HUY {
             get {
                 object obj = ResourceManager.GetObject("music_19_HUY", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap player {
+            get {
+                object obj = ResourceManager.GetObject("player", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -713,6 +833,26 @@ namespace RunAndJump_19_HUY.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap smoke_10073_128 {
+            get {
+                object obj = ResourceManager.GetObject("smoke-10073_128", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap smoke_10073_1281 {
+            get {
+                object obj = ResourceManager.GetObject("smoke-10073_1281", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap up_19_HUY {
             get {
                 object obj = ResourceManager.GetObject("up_19_HUY", resourceCulture);
@@ -736,6 +876,16 @@ namespace RunAndJump_19_HUY.Properties {
         internal static System.Drawing.Bitmap vines2_19_HUY {
             get {
                 object obj = ResourceManager.GetObject("vines2_19_HUY", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap vsgif_com_explosion_gif__3562704 {
+            get {
+                object obj = ResourceManager.GetObject("vsgif_com_explosion-gif_.3562704", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

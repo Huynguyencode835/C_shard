@@ -124,11 +124,14 @@
   <data name="claud1_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\claud1_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="GRASS_19_HUY (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\GRASS_19_HUY (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="button_exit_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_exit_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="return_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\return_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ground-6_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ground-6_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Fireball_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Fireball_19_HUY.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,11 +148,11 @@
   <data name="heartPlayer_2_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\heartPlayer_2_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ground-6_19_HUY1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ground-6_19_HUY1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Boss_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Boss_19_HUY.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="lava2_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\lava2_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="heroDmove" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\heroDmove.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="5a4e1d6a1fee8-unscreen" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\5a4e1d6a1fee8-unscreen.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -160,14 +163,20 @@
   <data name="heroFight_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\heroFight_19_HUY.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ground-4_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ground-4_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="lava1_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lava1_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="player" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\player.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="heartPlayer_5_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\heartPlayer_5_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="BUSH_19_HUY (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BUSH_19_HUY (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="smoke-10073_128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\smoke-10073_128.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lava2_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lava2_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="bot3_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bot3_19_HUY.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -175,8 +184,14 @@
   <data name="brg-1_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\brg-1_19_HUY.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button_about_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_about_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="BUSH_19_HUY (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\BUSH_19_HUY (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vsgif_com_explosion-gif_.3562704" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vsgif_com_explosion-gif_.3562704.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="background_layer_2_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\background_layer_2_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -193,6 +208,9 @@
   <data name="2206_w026_n002_2029b_p1_2029 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\2206_w026_n002_2029b_p1_2029 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="GRASS_19_HUY (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GRASS_19_HUY (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="rock-2_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rock-2_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -208,11 +226,20 @@
   <data name="ground-3_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ground-3_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button_start_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_start_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_next_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_next_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="claud2_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\claud2_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="intro_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\intro_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="key_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\key_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="vines1_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\vines1_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -232,14 +259,20 @@
   <data name="lava3_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\lava3_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button_close_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_close_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="lava_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\lava_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ground-4_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ground-4_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="right_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\right_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ground-6_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ground-6_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ground-6_19_HUY1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ground-6_19_HUY1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="2206_w026_n002_2029b_p1_20291" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\2206_w026_n002_2029b_p1_20291.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -252,6 +285,9 @@
   </data>
   <data name="GRASS_19_HUY (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\GRASS_19_HUY (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_music_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_music_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="heroMove_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\heroMove_19_HUY.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -277,8 +313,14 @@
   <data name="GRASS_19_HUY (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\GRASS_19_HUY (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="moon_earth" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\moon_earth.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="heartPlayer_4_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\heartPlayer_4_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_reset_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_reset_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="GRASS_19_HUY (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\GRASS_19_HUY (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -298,6 +340,9 @@
   <data name="heroHeal_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\heroHeal_19_HUY.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="BUSH_19_HUY (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BUSH_19_HUY (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="heroDie_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\heroDie_19_HUY.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -310,8 +355,8 @@
   <data name="rock-1_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rock-1_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="heroDmove" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\heroDmove.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="button_setting_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_setting_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="BUSH_19_HUY (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\BUSH_19_HUY (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -319,7 +364,7 @@
   <data name="heartPlayer_1_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\heartPlayer_1_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="lava1_19_HUY" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\lava1_19_HUY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="smoke-10073_1281" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\smoke-10073_1281.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

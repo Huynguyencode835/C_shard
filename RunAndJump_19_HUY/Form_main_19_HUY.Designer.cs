@@ -33,9 +33,18 @@
             this.GamerTime_19_HUY = new System.Windows.Forms.Timer(this.components);
             this.lblBullet_19_HUY = new System.Windows.Forms.Label();
             this.lblHeart_19_HUY = new System.Windows.Forms.Label();
-            this.pictureBox18 = new System.Windows.Forms.PictureBox();
-            this.pictureBox17 = new System.Windows.Forms.PictureBox();
-            this.picQbullet_19_HUY = new System.Windows.Forms.PictureBox();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.menuToolStripPause_19_Huy = new System.Windows.Forms.ToolStripMenuItem();
+            this.nEWGAMEToolStripMenuItem_19_Huy = new System.Windows.Forms.ToolStripMenuItem();
+            this.pauseToolStripMenuItem_19_Huy = new System.Windows.Forms.ToolStripMenuItem();
+            this.aboutToolStripMenuItem_19_Huy = new System.Windows.Forms.ToolStripMenuItem();
+            this.musicToolStripMenuItem_19_Huy = new System.Windows.Forms.ToolStripMenuItem();
+            this.onToolStripMenuItem_19_Huy = new System.Windows.Forms.ToolStripMenuItem();
+            this.offToolStripMenuItem_19_Huy = new System.Windows.Forms.ToolStripMenuItem();
+            this.exitToolStripMenuItem_19_Huy = new System.Windows.Forms.ToolStripMenuItem();
+            this.picBush_17_19_HUY = new System.Windows.Forms.PictureBox();
+            this.picBush_16_19_HUY = new System.Windows.Forms.PictureBox();
+            this.picBullet_19_HUY = new System.Windows.Forms.PictureBox();
             this.picHeartPlayer_19_HUY = new System.Windows.Forms.PictureBox();
             this.picGround_A2_19_HUY = new System.Windows.Forms.PictureBox();
             this.picGround_A1_19_HUY = new System.Windows.Forms.PictureBox();
@@ -70,23 +79,25 @@
             this.picBush_5_19_HUY = new System.Windows.Forms.PictureBox();
             this.picBush_2_19_HUY = new System.Windows.Forms.PictureBox();
             this.picBush_1_19_HUY = new System.Windows.Forms.PictureBox();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
-            this.pictureBox8 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox10 = new System.Windows.Forms.PictureBox();
-            this.pictureBox13 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.pictureBox12 = new System.Windows.Forms.PictureBox();
-            this.pictureBox14 = new System.Windows.Forms.PictureBox();
-            this.pictureBox11 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picQbullet_19_HUY)).BeginInit();
+            this.picCloud_10_19_Huy = new System.Windows.Forms.PictureBox();
+            this.picCloud_8_19_Huy = new System.Windows.Forms.PictureBox();
+            this.picCloud_9_19_Huy = new System.Windows.Forms.PictureBox();
+            this.picCloud_6_19_Huy = new System.Windows.Forms.PictureBox();
+            this.picCloud_7_19_Huy = new System.Windows.Forms.PictureBox();
+            this.picCloud_5_19_Huy = new System.Windows.Forms.PictureBox();
+            this.picCloud_2_19_Huy = new System.Windows.Forms.PictureBox();
+            this.picCloud_3_19_Huy = new System.Windows.Forms.PictureBox();
+            this.picCloud_4_19_Huy = new System.Windows.Forms.PictureBox();
+            this.picBush_14_19_HUY = new System.Windows.Forms.PictureBox();
+            this.picCloud_1_19_Huy = new System.Windows.Forms.PictureBox();
+            this.picBush_13_19_HUY = new System.Windows.Forms.PictureBox();
+            this.picBush_15_19_HUY = new System.Windows.Forms.PictureBox();
+            this.picBush_12_19_HUY = new System.Windows.Forms.PictureBox();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picBush_17_19_HUY)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBush_16_19_HUY)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBullet_19_HUY)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picHeartPlayer_19_HUY)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picGround_A2_19_HUY)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picGround_A1_19_HUY)).BeginInit();
@@ -121,20 +132,20 @@
             ((System.ComponentModel.ISupportInitialize)(this.picBush_5_19_HUY)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBush_2_19_HUY)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBush_1_19_HUY)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_10_19_Huy)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_8_19_Huy)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_9_19_Huy)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_6_19_Huy)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_7_19_Huy)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_5_19_Huy)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_2_19_Huy)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_3_19_Huy)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_4_19_Huy)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBush_14_19_HUY)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_1_19_Huy)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBush_13_19_HUY)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBush_15_19_HUY)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBush_12_19_HUY)).BeginInit();
             this.SuspendLayout();
             // 
             // GamerTime_19_HUY
@@ -146,7 +157,7 @@
             // 
             this.lblBullet_19_HUY.AutoSize = true;
             this.lblBullet_19_HUY.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblBullet_19_HUY.Location = new System.Drawing.Point(156, 26);
+            this.lblBullet_19_HUY.Location = new System.Drawing.Point(156, 46);
             this.lblBullet_19_HUY.Name = "lblBullet_19_HUY";
             this.lblBullet_19_HUY.Size = new System.Drawing.Size(16, 16);
             this.lblBullet_19_HUY.TabIndex = 7;
@@ -157,51 +168,138 @@
             this.lblHeart_19_HUY.AutoSize = true;
             this.lblHeart_19_HUY.BackColor = System.Drawing.Color.Transparent;
             this.lblHeart_19_HUY.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblHeart_19_HUY.Location = new System.Drawing.Point(57, 26);
+            this.lblHeart_19_HUY.Location = new System.Drawing.Point(57, 46);
             this.lblHeart_19_HUY.Name = "lblHeart_19_HUY";
             this.lblHeart_19_HUY.Size = new System.Drawing.Size(16, 16);
             this.lblHeart_19_HUY.TabIndex = 7;
             this.lblHeart_19_HUY.Text = "X";
             // 
-            // pictureBox18
+            // menuStrip1
             // 
-            this.pictureBox18.Image = global::RunAndJump_19_HUY.Properties.Resources.lava2_19_HUY;
-            this.pictureBox18.Location = new System.Drawing.Point(1507, 368);
-            this.pictureBox18.Name = "pictureBox18";
-            this.pictureBox18.Size = new System.Drawing.Size(194, 69);
-            this.pictureBox18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox18.TabIndex = 14;
-            this.pictureBox18.TabStop = false;
-            this.pictureBox18.Tag = "ground_19_HUY";
+            this.menuStrip1.AutoSize = false;
+            this.menuStrip1.BackColor = System.Drawing.Color.Transparent;
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.menuToolStripPause_19_Huy});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(834, 31);
+            this.menuStrip1.TabIndex = 15;
+            this.menuStrip1.Text = "menuStrip1";
             // 
-            // pictureBox17
+            // menuToolStripPause_19_Huy
             // 
-            this.pictureBox17.Image = global::RunAndJump_19_HUY.Properties.Resources.lava3_19_HUY;
-            this.pictureBox17.Location = new System.Drawing.Point(771, 406);
-            this.pictureBox17.Name = "pictureBox17";
-            this.pictureBox17.Size = new System.Drawing.Size(194, 69);
-            this.pictureBox17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox17.TabIndex = 14;
-            this.pictureBox17.TabStop = false;
-            this.pictureBox17.Tag = "ground_19_HUY";
+            this.menuToolStripPause_19_Huy.BackColor = System.Drawing.Color.Transparent;
+            this.menuToolStripPause_19_Huy.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.nEWGAMEToolStripMenuItem_19_Huy,
+            this.pauseToolStripMenuItem_19_Huy,
+            this.aboutToolStripMenuItem_19_Huy,
+            this.musicToolStripMenuItem_19_Huy,
+            this.exitToolStripMenuItem_19_Huy});
+            this.menuToolStripPause_19_Huy.Font = new System.Drawing.Font("Pixel Game", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.menuToolStripPause_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.button_setting_19_HUY;
+            this.menuToolStripPause_19_Huy.MergeIndex = 0;
+            this.menuToolStripPause_19_Huy.Name = "menuToolStripPause_19_Huy";
+            this.menuToolStripPause_19_Huy.Padding = new System.Windows.Forms.Padding(4);
+            this.menuToolStripPause_19_Huy.Size = new System.Drawing.Size(102, 27);
+            this.menuToolStripPause_19_Huy.Text = "SETTING";
             // 
-            // picQbullet_19_HUY
+            // nEWGAMEToolStripMenuItem_19_Huy
             // 
-            this.picQbullet_19_HUY.BackColor = System.Drawing.Color.Transparent;
-            this.picQbullet_19_HUY.Image = ((System.Drawing.Image)(resources.GetObject("picQbullet_19_HUY.Image")));
-            this.picQbullet_19_HUY.Location = new System.Drawing.Point(111, 14);
-            this.picQbullet_19_HUY.Name = "picQbullet_19_HUY";
-            this.picQbullet_19_HUY.Size = new System.Drawing.Size(38, 36);
-            this.picQbullet_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picQbullet_19_HUY.TabIndex = 6;
-            this.picQbullet_19_HUY.TabStop = false;
+            this.nEWGAMEToolStripMenuItem_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.button_start_19_HUY;
+            this.nEWGAMEToolStripMenuItem_19_Huy.Name = "nEWGAMEToolStripMenuItem_19_Huy";
+            this.nEWGAMEToolStripMenuItem_19_Huy.Size = new System.Drawing.Size(184, 26);
+            this.nEWGAMEToolStripMenuItem_19_Huy.Text = "NEW GAME";
+            this.nEWGAMEToolStripMenuItem_19_Huy.Click += new System.EventHandler(this.nEWGAMEToolStripMenuItem_19_Huy_Click);
+            // 
+            // pauseToolStripMenuItem_19_Huy
+            // 
+            this.pauseToolStripMenuItem_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.button_next_19_HUY;
+            this.pauseToolStripMenuItem_19_Huy.Name = "pauseToolStripMenuItem_19_Huy";
+            this.pauseToolStripMenuItem_19_Huy.Size = new System.Drawing.Size(184, 26);
+            this.pauseToolStripMenuItem_19_Huy.Text = "PAUSE";
+            this.pauseToolStripMenuItem_19_Huy.Click += new System.EventHandler(this.pauseToolStripMenuItem_19_Huy_Click);
+            // 
+            // aboutToolStripMenuItem_19_Huy
+            // 
+            this.aboutToolStripMenuItem_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.button_about_19_HUY;
+            this.aboutToolStripMenuItem_19_Huy.Name = "aboutToolStripMenuItem_19_Huy";
+            this.aboutToolStripMenuItem_19_Huy.Size = new System.Drawing.Size(184, 26);
+            this.aboutToolStripMenuItem_19_Huy.Text = "About";
+            this.aboutToolStripMenuItem_19_Huy.Click += new System.EventHandler(this.aboutToolStripMenuItem_19_Huy_Click);
+            // 
+            // musicToolStripMenuItem_19_Huy
+            // 
+            this.musicToolStripMenuItem_19_Huy.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.onToolStripMenuItem_19_Huy,
+            this.offToolStripMenuItem_19_Huy});
+            this.musicToolStripMenuItem_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.button_music_19_HUY;
+            this.musicToolStripMenuItem_19_Huy.Name = "musicToolStripMenuItem_19_Huy";
+            this.musicToolStripMenuItem_19_Huy.Size = new System.Drawing.Size(184, 26);
+            this.musicToolStripMenuItem_19_Huy.Text = "Music";
+            // 
+            // onToolStripMenuItem_19_Huy
+            // 
+            this.onToolStripMenuItem_19_Huy.Name = "onToolStripMenuItem_19_Huy";
+            this.onToolStripMenuItem_19_Huy.Size = new System.Drawing.Size(105, 26);
+            this.onToolStripMenuItem_19_Huy.Text = "On";
+            this.onToolStripMenuItem_19_Huy.Click += new System.EventHandler(this.onToolStripMenuItem_19_Huy_Click);
+            // 
+            // offToolStripMenuItem_19_Huy
+            // 
+            this.offToolStripMenuItem_19_Huy.Name = "offToolStripMenuItem_19_Huy";
+            this.offToolStripMenuItem_19_Huy.Size = new System.Drawing.Size(105, 26);
+            this.offToolStripMenuItem_19_Huy.Text = "Off";
+            this.offToolStripMenuItem_19_Huy.Click += new System.EventHandler(this.offToolStripMenuItem_19_Huy_Click);
+            // 
+            // exitToolStripMenuItem_19_Huy
+            // 
+            this.exitToolStripMenuItem_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.button_exit_19_HUY;
+            this.exitToolStripMenuItem_19_Huy.Name = "exitToolStripMenuItem_19_Huy";
+            this.exitToolStripMenuItem_19_Huy.Size = new System.Drawing.Size(184, 26);
+            this.exitToolStripMenuItem_19_Huy.Text = "Exit";
+            this.exitToolStripMenuItem_19_Huy.Click += new System.EventHandler(this.exitToolStripMenuItem_19_Huy_Click);
+            // 
+            // picBush_17_19_HUY
+            // 
+            this.picBush_17_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.lava2_19_HUY;
+            this.picBush_17_19_HUY.Location = new System.Drawing.Point(1507, 368);
+            this.picBush_17_19_HUY.Name = "picBush_17_19_HUY";
+            this.picBush_17_19_HUY.Size = new System.Drawing.Size(194, 69);
+            this.picBush_17_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picBush_17_19_HUY.TabIndex = 14;
+            this.picBush_17_19_HUY.TabStop = false;
+            this.picBush_17_19_HUY.Tag = "ground_19_HUY";
+            // 
+            // picBush_16_19_HUY
+            // 
+            this.picBush_16_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.lava3_19_HUY;
+            this.picBush_16_19_HUY.Location = new System.Drawing.Point(807, 428);
+            this.picBush_16_19_HUY.Name = "picBush_16_19_HUY";
+            this.picBush_16_19_HUY.Size = new System.Drawing.Size(163, 66);
+            this.picBush_16_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picBush_16_19_HUY.TabIndex = 14;
+            this.picBush_16_19_HUY.TabStop = false;
+            this.picBush_16_19_HUY.Tag = "ground_19_HUY";
+            // 
+            // picBullet_19_HUY
+            // 
+            this.picBullet_19_HUY.BackColor = System.Drawing.Color.Transparent;
+            this.picBullet_19_HUY.Image = ((System.Drawing.Image)(resources.GetObject("picBullet_19_HUY.Image")));
+            this.picBullet_19_HUY.Location = new System.Drawing.Point(111, 34);
+            this.picBullet_19_HUY.Name = "picBullet_19_HUY";
+            this.picBullet_19_HUY.Size = new System.Drawing.Size(38, 36);
+            this.picBullet_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picBullet_19_HUY.TabIndex = 6;
+            this.picBullet_19_HUY.TabStop = false;
             // 
             // picHeartPlayer_19_HUY
             // 
             this.picHeartPlayer_19_HUY.BackColor = System.Drawing.Color.Transparent;
             this.picHeartPlayer_19_HUY.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.picHeartPlayer_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.heartPlayer_1_19_HUY;
-            this.picHeartPlayer_19_HUY.Location = new System.Drawing.Point(12, 12);
+            this.picHeartPlayer_19_HUY.Location = new System.Drawing.Point(12, 32);
             this.picHeartPlayer_19_HUY.Name = "picHeartPlayer_19_HUY";
             this.picHeartPlayer_19_HUY.Size = new System.Drawing.Size(36, 36);
             this.picHeartPlayer_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -212,9 +310,9 @@
             // 
             this.picGround_A2_19_HUY.BackColor = System.Drawing.Color.Transparent;
             this.picGround_A2_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.ground_6_19_HUY1;
-            this.picGround_A2_19_HUY.Location = new System.Drawing.Point(771, 355);
+            this.picGround_A2_19_HUY.Location = new System.Drawing.Point(807, 376);
             this.picGround_A2_19_HUY.Name = "picGround_A2_19_HUY";
-            this.picGround_A2_19_HUY.Size = new System.Drawing.Size(202, 51);
+            this.picGround_A2_19_HUY.Size = new System.Drawing.Size(163, 51);
             this.picGround_A2_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picGround_A2_19_HUY.TabIndex = 3;
             this.picGround_A2_19_HUY.TabStop = false;
@@ -236,9 +334,9 @@
             // 
             this.picGround_U1_19_HUY.BackColor = System.Drawing.Color.Transparent;
             this.picGround_U1_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.ground_6_19_HUY1;
-            this.picGround_U1_19_HUY.Location = new System.Drawing.Point(-23, 450);
+            this.picGround_U1_19_HUY.Location = new System.Drawing.Point(-1, 450);
             this.picGround_U1_19_HUY.Name = "picGround_U1_19_HUY";
-            this.picGround_U1_19_HUY.Size = new System.Drawing.Size(419, 94);
+            this.picGround_U1_19_HUY.Size = new System.Drawing.Size(397, 94);
             this.picGround_U1_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picGround_U1_19_HUY.TabIndex = 2;
             this.picGround_U1_19_HUY.TabStop = false;
@@ -248,11 +346,11 @@
             // 
             this.picPlayer_19_HUY.BackColor = System.Drawing.Color.Transparent;
             this.picPlayer_19_HUY.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.picPlayer_19_HUY.Image = ((System.Drawing.Image)(resources.GetObject("picPlayer_19_HUY.Image")));
-            this.picPlayer_19_HUY.Location = new System.Drawing.Point(61, 393);
+            this.picPlayer_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.player;
+            this.picPlayer_19_HUY.Location = new System.Drawing.Point(99, 384);
             this.picPlayer_19_HUY.Name = "picPlayer_19_HUY";
-            this.picPlayer_19_HUY.Size = new System.Drawing.Size(38, 60);
-            this.picPlayer_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picPlayer_19_HUY.Size = new System.Drawing.Size(50, 60);
+            this.picPlayer_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.picPlayer_19_HUY.TabIndex = 1;
             this.picPlayer_19_HUY.TabStop = false;
             // 
@@ -260,9 +358,9 @@
             // 
             this.picGround_A8_19_HUY.BackColor = System.Drawing.Color.Transparent;
             this.picGround_A8_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.ground_6_19_HUY1;
-            this.picGround_A8_19_HUY.Location = new System.Drawing.Point(2566, 104);
+            this.picGround_A8_19_HUY.Location = new System.Drawing.Point(2108, 104);
             this.picGround_A8_19_HUY.Name = "picGround_A8_19_HUY";
-            this.picGround_A8_19_HUY.Size = new System.Drawing.Size(194, 66);
+            this.picGround_A8_19_HUY.Size = new System.Drawing.Size(652, 66);
             this.picGround_A8_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picGround_A8_19_HUY.TabIndex = 3;
             this.picGround_A8_19_HUY.TabStop = false;
@@ -343,9 +441,9 @@
             // picBrg_1_19_HU
             // 
             this.picBrg_1_19_HU.BackColor = System.Drawing.Color.Transparent;
-            this.picBrg_1_19_HU.Location = new System.Drawing.Point(-12, 597);
+            this.picBrg_1_19_HU.Location = new System.Drawing.Point(0, 557);
             this.picBrg_1_19_HU.Name = "picBrg_1_19_HU";
-            this.picBrg_1_19_HU.Size = new System.Drawing.Size(2760, 620);
+            this.picBrg_1_19_HU.Size = new System.Drawing.Size(2760, 30);
             this.picBrg_1_19_HU.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.picBrg_1_19_HU.TabIndex = 0;
             this.picBrg_1_19_HU.TabStop = false;
@@ -474,7 +572,7 @@
             // picBush_3_19_HUY
             // 
             this.picBush_3_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.GRASS_19_HUY__1_;
-            this.picBush_3_19_HUY.Location = new System.Drawing.Point(931, 334);
+            this.picBush_3_19_HUY.Location = new System.Drawing.Point(807, 355);
             this.picBush_3_19_HUY.Name = "picBush_3_19_HUY";
             this.picBush_3_19_HUY.Size = new System.Drawing.Size(34, 20);
             this.picBush_3_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -485,7 +583,7 @@
             // picBush_11_19_HUY
             // 
             this.picBush_11_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.BUSH_19_HUY__7_;
-            this.picBush_11_19_HUY.Location = new System.Drawing.Point(2512, 259);
+            this.picBush_11_19_HUY.Location = new System.Drawing.Point(2591, 77);
             this.picBush_11_19_HUY.Name = "picBush_11_19_HUY";
             this.picBush_11_19_HUY.Size = new System.Drawing.Size(91, 31);
             this.picBush_11_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -507,7 +605,7 @@
             // picBush_10_19_HUY
             // 
             this.picBush_10_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.BUSH_19_HUY__1_;
-            this.picBush_10_19_HUY.Location = new System.Drawing.Point(2222, 409);
+            this.picBush_10_19_HUY.Location = new System.Drawing.Point(2222, 94);
             this.picBush_10_19_HUY.Name = "picBush_10_19_HUY";
             this.picBush_10_19_HUY.Size = new System.Drawing.Size(49, 14);
             this.picBush_10_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -551,7 +649,7 @@
             // picBush_5_19_HUY
             // 
             this.picBush_5_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.GRASS_19_HUY__5_;
-            this.picBush_5_19_HUY.Location = new System.Drawing.Point(643, 248);
+            this.picBush_5_19_HUY.Location = new System.Drawing.Point(643, 250);
             this.picBush_5_19_HUY.Name = "picBush_5_19_HUY";
             this.picBush_5_19_HUY.Size = new System.Drawing.Size(18, 11);
             this.picBush_5_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -581,159 +679,165 @@
             this.picBush_1_19_HUY.TabStop = false;
             this.picBush_1_19_HUY.Tag = "Bush_19_HUY";
             // 
-            // pictureBox9
+            // picCloud_10_19_Huy
             // 
-            this.pictureBox9.Image = global::RunAndJump_19_HUY.Properties.Resources.claud2_19_HUY;
-            this.pictureBox9.Location = new System.Drawing.Point(2566, -30);
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(122, 96);
-            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox9.TabIndex = 11;
-            this.pictureBox9.TabStop = false;
-            this.pictureBox9.Tag = "background_19_HUY";
+            this.picCloud_10_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.claud2_19_HUY;
+            this.picCloud_10_19_Huy.Location = new System.Drawing.Point(2623, -19);
+            this.picCloud_10_19_Huy.Name = "picCloud_10_19_Huy";
+            this.picCloud_10_19_Huy.Size = new System.Drawing.Size(122, 96);
+            this.picCloud_10_19_Huy.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCloud_10_19_Huy.TabIndex = 11;
+            this.picCloud_10_19_Huy.TabStop = false;
+            this.picCloud_10_19_Huy.Tag = "background_19_HUY";
             // 
-            // pictureBox8
+            // picCloud_8_19_Huy
             // 
-            this.pictureBox8.Image = global::RunAndJump_19_HUY.Properties.Resources.claud1_19_HUY;
-            this.pictureBox8.Location = new System.Drawing.Point(1951, 1);
-            this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(219, 96);
-            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox8.TabIndex = 11;
-            this.pictureBox8.TabStop = false;
-            this.pictureBox8.Tag = "background_19_HUY";
+            this.picCloud_8_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.claud1_19_HUY;
+            this.picCloud_8_19_Huy.Location = new System.Drawing.Point(1951, 1);
+            this.picCloud_8_19_Huy.Name = "picCloud_8_19_Huy";
+            this.picCloud_8_19_Huy.Size = new System.Drawing.Size(219, 96);
+            this.picCloud_8_19_Huy.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCloud_8_19_Huy.TabIndex = 11;
+            this.picCloud_8_19_Huy.TabStop = false;
+            this.picCloud_8_19_Huy.Tag = "background_19_HUY";
             // 
-            // pictureBox4
+            // picCloud_9_19_Huy
             // 
-            this.pictureBox4.Image = global::RunAndJump_19_HUY.Properties.Resources.claud2_19_HUY;
-            this.pictureBox4.Location = new System.Drawing.Point(2169, -19);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(122, 96);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 11;
-            this.pictureBox4.TabStop = false;
-            this.pictureBox4.Tag = "background_19_HUY";
+            this.picCloud_9_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.claud2_19_HUY;
+            this.picCloud_9_19_Huy.Location = new System.Drawing.Point(2169, -19);
+            this.picCloud_9_19_Huy.Name = "picCloud_9_19_Huy";
+            this.picCloud_9_19_Huy.Size = new System.Drawing.Size(122, 96);
+            this.picCloud_9_19_Huy.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCloud_9_19_Huy.TabIndex = 11;
+            this.picCloud_9_19_Huy.TabStop = false;
+            this.picCloud_9_19_Huy.Tag = "background_19_HUY";
             // 
-            // pictureBox3
+            // picCloud_6_19_Huy
             // 
-            this.pictureBox3.Image = global::RunAndJump_19_HUY.Properties.Resources.claud1_19_HUY;
-            this.pictureBox3.Location = new System.Drawing.Point(1554, 12);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(219, 96);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 11;
-            this.pictureBox3.TabStop = false;
-            this.pictureBox3.Tag = "background_19_HUY";
+            this.picCloud_6_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.claud1_19_HUY;
+            this.picCloud_6_19_Huy.Location = new System.Drawing.Point(1554, 12);
+            this.picCloud_6_19_Huy.Name = "picCloud_6_19_Huy";
+            this.picCloud_6_19_Huy.Size = new System.Drawing.Size(219, 96);
+            this.picCloud_6_19_Huy.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCloud_6_19_Huy.TabIndex = 11;
+            this.picCloud_6_19_Huy.TabStop = false;
+            this.picCloud_6_19_Huy.Tag = "background_19_HUY";
             // 
-            // pictureBox7
+            // picCloud_7_19_Huy
             // 
-            this.pictureBox7.Image = global::RunAndJump_19_HUY.Properties.Resources.claud2_19_HUY;
-            this.pictureBox7.Location = new System.Drawing.Point(1767, 40);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(102, 96);
-            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox7.TabIndex = 11;
-            this.pictureBox7.TabStop = false;
-            this.pictureBox7.Tag = "background_19_HUY";
+            this.picCloud_7_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.claud2_19_HUY;
+            this.picCloud_7_19_Huy.Location = new System.Drawing.Point(1767, 40);
+            this.picCloud_7_19_Huy.Name = "picCloud_7_19_Huy";
+            this.picCloud_7_19_Huy.Size = new System.Drawing.Size(102, 96);
+            this.picCloud_7_19_Huy.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCloud_7_19_Huy.TabIndex = 11;
+            this.picCloud_7_19_Huy.TabStop = false;
+            this.picCloud_7_19_Huy.Tag = "background_19_HUY";
             // 
-            // pictureBox6
+            // picCloud_5_19_Huy
             // 
-            this.pictureBox6.Image = global::RunAndJump_19_HUY.Properties.Resources.claud2_19_HUY;
-            this.pictureBox6.Location = new System.Drawing.Point(1151, -7);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(102, 96);
-            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox6.TabIndex = 11;
-            this.pictureBox6.TabStop = false;
-            this.pictureBox6.Tag = "background_19_HUY";
+            this.picCloud_5_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.claud2_19_HUY;
+            this.picCloud_5_19_Huy.Location = new System.Drawing.Point(1151, -7);
+            this.picCloud_5_19_Huy.Name = "picCloud_5_19_Huy";
+            this.picCloud_5_19_Huy.Size = new System.Drawing.Size(102, 96);
+            this.picCloud_5_19_Huy.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCloud_5_19_Huy.TabIndex = 11;
+            this.picCloud_5_19_Huy.TabStop = false;
+            this.picCloud_5_19_Huy.Tag = "background_19_HUY";
             // 
-            // pictureBox5
+            // picCloud_2_19_Huy
             // 
-            this.pictureBox5.Image = global::RunAndJump_19_HUY.Properties.Resources.claud2_19_HUY;
-            this.pictureBox5.Location = new System.Drawing.Point(546, 51);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(102, 96);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox5.TabIndex = 11;
-            this.pictureBox5.TabStop = false;
-            this.pictureBox5.Tag = "background_19_HUY";
+            this.picCloud_2_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.claud2_19_HUY;
+            this.picCloud_2_19_Huy.Location = new System.Drawing.Point(546, 51);
+            this.picCloud_2_19_Huy.Name = "picCloud_2_19_Huy";
+            this.picCloud_2_19_Huy.Size = new System.Drawing.Size(102, 96);
+            this.picCloud_2_19_Huy.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCloud_2_19_Huy.TabIndex = 11;
+            this.picCloud_2_19_Huy.TabStop = false;
+            this.picCloud_2_19_Huy.Tag = "background_19_HUY";
             // 
-            // pictureBox2
+            // picCloud_3_19_Huy
             // 
-            this.pictureBox2.Image = global::RunAndJump_19_HUY.Properties.Resources.claud2_19_HUY;
-            this.pictureBox2.Location = new System.Drawing.Point(783, -19);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(102, 96);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 11;
-            this.pictureBox2.TabStop = false;
-            this.pictureBox2.Tag = "background_19_HUY";
+            this.picCloud_3_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.claud2_19_HUY;
+            this.picCloud_3_19_Huy.Location = new System.Drawing.Point(783, -18);
+            this.picCloud_3_19_Huy.Name = "picCloud_3_19_Huy";
+            this.picCloud_3_19_Huy.Size = new System.Drawing.Size(102, 96);
+            this.picCloud_3_19_Huy.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCloud_3_19_Huy.TabIndex = 11;
+            this.picCloud_3_19_Huy.TabStop = false;
+            this.picCloud_3_19_Huy.Tag = "background_19_HUY";
             // 
-            // pictureBox10
+            // picCloud_4_19_Huy
             // 
-            this.pictureBox10.Image = global::RunAndJump_19_HUY.Properties.Resources.claud1_19_HUY;
-            this.pictureBox10.Location = new System.Drawing.Point(878, 113);
-            this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(219, 96);
-            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox10.TabIndex = 11;
-            this.pictureBox10.TabStop = false;
-            this.pictureBox10.Tag = "background_19_HUY";
+            this.picCloud_4_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.claud1_19_HUY;
+            this.picCloud_4_19_Huy.Location = new System.Drawing.Point(878, 113);
+            this.picCloud_4_19_Huy.Name = "picCloud_4_19_Huy";
+            this.picCloud_4_19_Huy.Size = new System.Drawing.Size(219, 96);
+            this.picCloud_4_19_Huy.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCloud_4_19_Huy.TabIndex = 11;
+            this.picCloud_4_19_Huy.TabStop = false;
+            this.picCloud_4_19_Huy.Tag = "background_19_HUY";
             // 
-            // pictureBox13
+            // picBush_14_19_HUY
             // 
-            this.pictureBox13.Image = global::RunAndJump_19_HUY.Properties.Resources.vines2_19_HUY;
-            this.pictureBox13.Location = new System.Drawing.Point(1828, 318);
-            this.pictureBox13.Name = "pictureBox13";
-            this.pictureBox13.Size = new System.Drawing.Size(134, 100);
-            this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox13.TabIndex = 12;
-            this.pictureBox13.TabStop = false;
-            this.pictureBox13.Tag = "ground_19_HUY";
+            this.picBush_14_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.vines2_19_HUY;
+            this.picBush_14_19_HUY.Location = new System.Drawing.Point(1828, 318);
+            this.picBush_14_19_HUY.Name = "picBush_14_19_HUY";
+            this.picBush_14_19_HUY.Size = new System.Drawing.Size(134, 100);
+            this.picBush_14_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.picBush_14_19_HUY.TabIndex = 12;
+            this.picBush_14_19_HUY.TabStop = false;
+            this.picBush_14_19_HUY.Tag = "Bush_19_HUY";
             // 
-            // pictureBox1
+            // picCloud_1_19_Huy
             // 
-            this.pictureBox1.Image = global::RunAndJump_19_HUY.Properties.Resources.claud1_19_HUY;
-            this.pictureBox1.Location = new System.Drawing.Point(228, 14);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(219, 96);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 11;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Tag = "background_19_HUY";
+            this.picCloud_1_19_Huy.Image = global::RunAndJump_19_HUY.Properties.Resources.claud1_19_HUY;
+            this.picCloud_1_19_Huy.Location = new System.Drawing.Point(35, 79);
+            this.picCloud_1_19_Huy.Name = "picCloud_1_19_Huy";
+            this.picCloud_1_19_Huy.Size = new System.Drawing.Size(219, 96);
+            this.picCloud_1_19_Huy.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCloud_1_19_Huy.TabIndex = 11;
+            this.picCloud_1_19_Huy.TabStop = false;
+            this.picCloud_1_19_Huy.Tag = "background_19_HUY";
             // 
-            // pictureBox12
+            // picBush_13_19_HUY
             // 
-            this.pictureBox12.Image = global::RunAndJump_19_HUY.Properties.Resources.vines2_19_HUY;
-            this.pictureBox12.Location = new System.Drawing.Point(1209, 147);
-            this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(134, 100);
-            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox12.TabIndex = 12;
-            this.pictureBox12.TabStop = false;
-            this.pictureBox12.Tag = "ground_19_HUY";
+            this.picBush_13_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.vines2_19_HUY;
+            this.picBush_13_19_HUY.Location = new System.Drawing.Point(1209, 147);
+            this.picBush_13_19_HUY.Name = "picBush_13_19_HUY";
+            this.picBush_13_19_HUY.Size = new System.Drawing.Size(134, 100);
+            this.picBush_13_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.picBush_13_19_HUY.TabIndex = 12;
+            this.picBush_13_19_HUY.TabStop = false;
+            this.picBush_13_19_HUY.Tag = "Bush_19_HUY";
             // 
-            // pictureBox14
+            // picBush_15_19_HUY
             // 
-            this.pictureBox14.Image = global::RunAndJump_19_HUY.Properties.Resources.vines1_19_HUY;
-            this.pictureBox14.Location = new System.Drawing.Point(2359, 355);
-            this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(244, 133);
-            this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox14.TabIndex = 12;
-            this.pictureBox14.TabStop = false;
-            this.pictureBox14.Tag = "ground_19_HUY";
+            this.picBush_15_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.vines1_19_HUY;
+            this.picBush_15_19_HUY.Location = new System.Drawing.Point(2359, 355);
+            this.picBush_15_19_HUY.Name = "picBush_15_19_HUY";
+            this.picBush_15_19_HUY.Size = new System.Drawing.Size(244, 133);
+            this.picBush_15_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picBush_15_19_HUY.TabIndex = 12;
+            this.picBush_15_19_HUY.TabStop = false;
+            this.picBush_15_19_HUY.Tag = "ground_19_HUY";
             // 
-            // pictureBox11
+            // picBush_12_19_HUY
             // 
-            this.pictureBox11.Image = global::RunAndJump_19_HUY.Properties.Resources.vines1_19_HUY;
-            this.pictureBox11.Location = new System.Drawing.Point(477, 321);
-            this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(244, 146);
-            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox11.TabIndex = 12;
-            this.pictureBox11.TabStop = false;
-            this.pictureBox11.Tag = "ground_19_HUY";
+            this.picBush_12_19_HUY.Image = global::RunAndJump_19_HUY.Properties.Resources.vines1_19_HUY;
+            this.picBush_12_19_HUY.Location = new System.Drawing.Point(477, 321);
+            this.picBush_12_19_HUY.Name = "picBush_12_19_HUY";
+            this.picBush_12_19_HUY.Size = new System.Drawing.Size(244, 146);
+            this.picBush_12_19_HUY.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.picBush_12_19_HUY.TabIndex = 12;
+            this.picBush_12_19_HUY.TabStop = false;
+            this.picBush_12_19_HUY.Tag = "Bush_19_HUY";
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
             // FormMain_19_HUY
             // 
@@ -741,12 +845,12 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(834, 544);
-            this.Controls.Add(this.pictureBox18);
-            this.Controls.Add(this.pictureBox17);
+            this.ClientSize = new System.Drawing.Size(834, 520);
+            this.Controls.Add(this.picBush_17_19_HUY);
+            this.Controls.Add(this.picBush_16_19_HUY);
             this.Controls.Add(this.lblHeart_19_HUY);
             this.Controls.Add(this.lblBullet_19_HUY);
-            this.Controls.Add(this.picQbullet_19_HUY);
+            this.Controls.Add(this.picBullet_19_HUY);
             this.Controls.Add(this.picHeartPlayer_19_HUY);
             this.Controls.Add(this.picGround_A2_19_HUY);
             this.Controls.Add(this.picGround_A1_19_HUY);
@@ -781,29 +885,34 @@
             this.Controls.Add(this.picBush_5_19_HUY);
             this.Controls.Add(this.picBush_2_19_HUY);
             this.Controls.Add(this.picBush_1_19_HUY);
-            this.Controls.Add(this.pictureBox9);
-            this.Controls.Add(this.pictureBox8);
-            this.Controls.Add(this.pictureBox4);
-            this.Controls.Add(this.pictureBox3);
-            this.Controls.Add(this.pictureBox7);
-            this.Controls.Add(this.pictureBox6);
-            this.Controls.Add(this.pictureBox5);
-            this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.pictureBox10);
-            this.Controls.Add(this.pictureBox13);
-            this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.pictureBox12);
-            this.Controls.Add(this.pictureBox14);
-            this.Controls.Add(this.pictureBox11);
+            this.Controls.Add(this.picCloud_10_19_Huy);
+            this.Controls.Add(this.picCloud_8_19_Huy);
+            this.Controls.Add(this.picCloud_9_19_Huy);
+            this.Controls.Add(this.picCloud_6_19_Huy);
+            this.Controls.Add(this.picCloud_7_19_Huy);
+            this.Controls.Add(this.picCloud_5_19_Huy);
+            this.Controls.Add(this.picCloud_2_19_Huy);
+            this.Controls.Add(this.picCloud_3_19_Huy);
+            this.Controls.Add(this.picCloud_4_19_Huy);
+            this.Controls.Add(this.picBush_14_19_HUY);
+            this.Controls.Add(this.picCloud_1_19_Huy);
+            this.Controls.Add(this.picBush_13_19_HUY);
+            this.Controls.Add(this.picBush_15_19_HUY);
+            this.Controls.Add(this.picBush_12_19_HUY);
+            this.Controls.Add(this.menuStrip1);
             this.ForeColor = System.Drawing.Color.Black;
+            this.MainMenuStrip = this.menuStrip1;
+            this.MaximizeBox = false;
             this.Name = "FormMain_19_HUY";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "RunAndJump_19_HUY";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.KeyIsDown_19_HUY);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.KeyIsUp_19_HUY);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picQbullet_19_HUY)).EndInit();
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picBush_17_19_HUY)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBush_16_19_HUY)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBullet_19_HUY)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picHeartPlayer_19_HUY)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picGround_A2_19_HUY)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picGround_A1_19_HUY)).EndInit();
@@ -838,20 +947,20 @@
             ((System.ComponentModel.ISupportInitialize)(this.picBush_5_19_HUY)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBush_2_19_HUY)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBush_1_19_HUY)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_10_19_Huy)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_8_19_Huy)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_9_19_Huy)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_6_19_Huy)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_7_19_Huy)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_5_19_Huy)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_2_19_Huy)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_3_19_Huy)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_4_19_Huy)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBush_14_19_HUY)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCloud_1_19_Huy)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBush_13_19_HUY)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBush_15_19_HUY)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBush_12_19_HUY)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -872,7 +981,7 @@
         private System.Windows.Forms.Timer GamerTime_19_HUY;
         private System.Windows.Forms.PictureBox picBrg_1_19_HU;
         private System.Windows.Forms.PictureBox picHeartPlayer_19_HUY;
-        private System.Windows.Forms.PictureBox picQbullet_19_HUY;
+        private System.Windows.Forms.PictureBox picBullet_19_HUY;
         private System.Windows.Forms.Label lblBullet_19_HUY;
         private System.Windows.Forms.PictureBox picGround_Lava1_19_HUY;
         private System.Windows.Forms.PictureBox picGround_Lava2_19_HUY;
@@ -895,23 +1004,33 @@
         private System.Windows.Forms.PictureBox picBush_9_19_HUY;
         private System.Windows.Forms.PictureBox picBush_10_19_HUY;
         private System.Windows.Forms.PictureBox picBush_11_19_HUY;
-        private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.PictureBox pictureBox2;
-        private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.PictureBox pictureBox4;
-        private System.Windows.Forms.PictureBox pictureBox5;
-        private System.Windows.Forms.PictureBox pictureBox6;
-        private System.Windows.Forms.PictureBox pictureBox7;
-        private System.Windows.Forms.PictureBox pictureBox8;
-        private System.Windows.Forms.PictureBox pictureBox9;
-        private System.Windows.Forms.PictureBox pictureBox10;
-        private System.Windows.Forms.PictureBox pictureBox11;
-        private System.Windows.Forms.PictureBox pictureBox12;
-        private System.Windows.Forms.PictureBox pictureBox14;
+        private System.Windows.Forms.PictureBox picCloud_1_19_Huy;
+        private System.Windows.Forms.PictureBox picCloud_3_19_Huy;
+        private System.Windows.Forms.PictureBox picCloud_6_19_Huy;
+        private System.Windows.Forms.PictureBox picCloud_9_19_Huy;
+        private System.Windows.Forms.PictureBox picCloud_2_19_Huy;
+        private System.Windows.Forms.PictureBox picCloud_5_19_Huy;
+        private System.Windows.Forms.PictureBox picCloud_7_19_Huy;
+        private System.Windows.Forms.PictureBox picCloud_8_19_Huy;
+        private System.Windows.Forms.PictureBox picCloud_10_19_Huy;
+        private System.Windows.Forms.PictureBox picCloud_4_19_Huy;
+        private System.Windows.Forms.PictureBox picBush_12_19_HUY;
+        private System.Windows.Forms.PictureBox picBush_13_19_HUY;
+        private System.Windows.Forms.PictureBox picBush_15_19_HUY;
         private System.Windows.Forms.Label lblHeart_19_HUY;
-        private System.Windows.Forms.PictureBox pictureBox13;
-        private System.Windows.Forms.PictureBox pictureBox17;
-        private System.Windows.Forms.PictureBox pictureBox18;
+        private System.Windows.Forms.PictureBox picBush_14_19_HUY;
+        private System.Windows.Forms.PictureBox picBush_16_19_HUY;
+        private System.Windows.Forms.PictureBox picBush_17_19_HUY;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem menuToolStripPause_19_Huy;
+        private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem_19_Huy;
+        private System.Windows.Forms.ToolStripMenuItem musicToolStripMenuItem_19_Huy;
+        private System.Windows.Forms.ToolStripMenuItem onToolStripMenuItem_19_Huy;
+        private System.Windows.Forms.ToolStripMenuItem offToolStripMenuItem_19_Huy;
+        private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem_19_Huy;
+        private System.Windows.Forms.ToolStripMenuItem pauseToolStripMenuItem_19_Huy;
+        private System.Windows.Forms.ToolStripMenuItem nEWGAMEToolStripMenuItem_19_Huy;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
     }
 }
 

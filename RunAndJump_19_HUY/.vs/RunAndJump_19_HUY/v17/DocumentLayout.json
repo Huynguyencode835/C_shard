@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA056EEB-EEB7-4650-B8C1-02CCBF436681}|RunAndJump_19_HUY.csproj|d:\\work place\\code\\c#\\runandjump_19_huy\\form_start_19_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA056EEB-EEB7-4650-B8C1-02CCBF436681}|RunAndJump_19_HUY.csproj|solutionrelative:form_start_19_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA056EEB-EEB7-4650-B8C1-02CCBF436681}|RunAndJump_19_HUY.csproj|D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA056EEB-EEB7-4650-B8C1-02CCBF436681}|RunAndJump_19_HUY.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA056EEB-EEB7-4650-B8C1-02CCBF436681}|RunAndJump_19_HUY.csproj|D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\form_main_19_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA056EEB-EEB7-4650-B8C1-02CCBF436681}|RunAndJump_19_HUY.csproj|solutionrelative:form_main_19_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA056EEB-EEB7-4650-B8C1-02CCBF436681}|RunAndJump_19_HUY.csproj|D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\form_main_19_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA056EEB-EEB7-4650-B8C1-02CCBF436681}|RunAndJump_19_HUY.csproj|solutionrelative:form_main_19_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA056EEB-EEB7-4650-B8C1-02CCBF436681}|RunAndJump_19_HUY.csproj|d:\\work place\\code\\c#\\runandjump_19_huy\\form_main_19_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA056EEB-EEB7-4650-B8C1-02CCBF436681}|RunAndJump_19_HUY.csproj|solutionrelative:form_main_19_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CA056EEB-EEB7-4650-B8C1-02CCBF436681}|RunAndJump_19_HUY.csproj|D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\createobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA056EEB-EEB7-4650-B8C1-02CCBF436681}|RunAndJump_19_HUY.csproj|solutionrelative:createobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,32 +33,66 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form_main_19_HUY.cs [Design]",
               "DocumentMoniker": "D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\Form_main_19_HUY.cs",
               "RelativeDocumentMoniker": "Form_main_19_HUY.cs",
               "ToolTip": "D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\Form_main_19_HUY.cs [Design]",
               "RelativeToolTip": "Form_main_19_HUY.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T04:08:21.661Z",
+              "WhenOpened": "2025-04-10T12:59:10.051Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:04:18.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form_start_19_HUY.cs [Design]",
+              "DocumentMoniker": "D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\Form_start_19_HUY.cs",
+              "RelativeDocumentMoniker": "Form_start_19_HUY.cs",
+              "ToolTip": "D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\Form_start_19_HUY.cs [Design]",
+              "RelativeToolTip": "Form_start_19_HUY.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:04:27.49Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateObject.cs",
+              "DocumentMoniker": "D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\CreateObject.cs",
+              "RelativeDocumentMoniker": "CreateObject.cs",
+              "ToolTip": "D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\CreateObject.cs",
+              "RelativeToolTip": "CreateObject.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwEgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:06:43.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form_main_19_HUY.cs",
               "DocumentMoniker": "D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\Form_main_19_HUY.cs",
               "RelativeDocumentMoniker": "Form_main_19_HUY.cs",
               "ToolTip": "D:\\Work place\\Code\\C#\\RunAndJump_19_HUY\\Form_main_19_HUY.cs",
               "RelativeToolTip": "Form_main_19_HUY.cs",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAgwNsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAqwMEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T04:01:38.394Z",
+              "WhenOpened": "2025-04-09T02:39:30.74Z",
               "EditorCaption": ""
             }
           ]

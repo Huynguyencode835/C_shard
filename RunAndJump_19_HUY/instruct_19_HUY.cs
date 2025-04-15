@@ -16,5 +16,10 @@ namespace RunAndJump_19_HUY
         {
             InitializeComponent();
         }
+
+        private void picPlayerAttack_19_Huy_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
